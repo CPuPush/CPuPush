@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CPuPush
-- 👀 I’m interested in Web Develompent exactly Back-end Enthusiast
+- 👀 I’m interested in Web Develompent exactly Back-end Development
 - 🌱 I’m currently learning Node.js and ExpressJs
 
 <!---
