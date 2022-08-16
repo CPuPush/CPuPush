@@ -1,6 +1,6 @@
 - 👋 Hi,  I’m FORI OKTO PAKPAHAN as @CPuPush
 - 👀 I’m interested in Web Development expecially in Back-end Web Development
-- 🌱 I’m currently learning Node.js and ExpressJs
+- 🌱 I’m currently learning Node.js, ExpressJs, And MongoDB Database Management
 - 👀 Follow all my social media on <br>
 <h2><a href="https://cpupush.github.io">Visit My All Social Media</a></h2>
 
