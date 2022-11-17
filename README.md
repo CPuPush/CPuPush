@@ -1,3 +1,6 @@
+👇👇👇
+https://www.codewars.com/users/CPuPush/badges/large
+
 - 👋 Hi,  I’m FORI OKTO PAKPAHAN as @CPuPush
 - 👀 I’m interested in Web Development expecially in Back-end Web Development
 - 🌱 I’m currently learning Node.js, ExpressJs, And MongoDB Database Management
